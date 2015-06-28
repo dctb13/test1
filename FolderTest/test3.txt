@@ -1,0 +1,4 @@
+initial git file to test how it works
+this file will be duplicated a number of times to test functionality
+DB - 28/6/2015
+new line
